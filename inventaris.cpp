@@ -656,7 +656,7 @@ int main() {
                     break;
                 }
 
-                cout << "Masukkan barang yang dipinjam: ";
+                cout << "Masukkan nama barang yang akan dipinjam: ";
                 getline(cin, barang);
                 if (barang == "-1") {
                     system("cls");
