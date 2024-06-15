@@ -539,7 +539,7 @@ public:
                 return;
             }
         }
-        cout << "Loan not found." << endl;
+        cout << "Data peminjaman tidak ditemukan" << endl;
     }
 };
 
